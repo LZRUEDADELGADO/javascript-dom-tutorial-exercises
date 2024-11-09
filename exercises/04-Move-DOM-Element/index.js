@@ -1,2 +1,3 @@
-let aux = document.querySelector("#wulu");
-// Your code here
+let aux = document.querySelector('#wulu');
+aux.style.float = "right";
+
